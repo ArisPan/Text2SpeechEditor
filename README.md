@@ -1,5 +1,5 @@
 # Text2SpeechEditor
-A notepad like apllication with Text-to-Speech functionality.
+A notepad like apllication with Text-to-Speech functionality.\
 Proper documentation will follow on simpler times, for now, this README will constitute a place for a number of refactoring ideas.
 
 ## To Do
