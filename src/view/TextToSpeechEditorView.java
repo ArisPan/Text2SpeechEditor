@@ -540,7 +540,7 @@ public class TextToSpeechEditorView {
 
 		return result;
 	}
-	
+
 	public void updateLineIndex(int newLineIndex) {
 		this.currentLineIndex = newLineIndex;
 	}
